@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Làng Hải Sản Trùng Dương</title>
+    <title>Your Website</title>
 </head>
 <body>
     <div class="container">
-        <img class="desktop" src="https://postimg.cc/FdcTV8dj][img]https://i.postimg.cc/FdcTV8dj/KV-Teasing-Trung-Duong-03-Website-Homescreen-1920x1080.jpg" alt="Desktop Image">
-        <img class="mobile" src="https://postimg.cc/PC3VXmn8][img]https://i.postimg.cc/PC3VXmn8/KV-Teasing-Trung-Duong-02-1-Story-1080x1920.jpg" alt="Mobile Image">
+        <img class="desktop-image" src="https://i.postimg.cc/FdcTV8dj/KV-Teasing-Trung-Duong-03-Website-Homescreen-1920x1080.jpg" alt="Desktop Image">
+        <img class="mobile-image" src="https://i.postimg.cc/PC3VXmn8/KV-Teasing-Trung-Duong-02-1-Story-1080x1920.jpg" alt="Mobile Image">
     </div>
 </body>
 </html>
